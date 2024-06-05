@@ -1,0 +1,5 @@
+outs:
+- md5: 29ddb6c2237ea3d88ea4f1420e690489
+  size: 1899258
+  hash: md5
+  path: User0_credit_card_transactions.csv

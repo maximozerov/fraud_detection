@@ -1,0 +1,5 @@
+outs:
+- md5: 17bfaca50a0f3b90a55013b1b0d53261
+  size: 487120
+  hash: md5
+  path: sd254_cards.csv
